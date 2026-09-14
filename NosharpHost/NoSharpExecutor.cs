@@ -883,7 +883,7 @@ namespace NosharpHost {
             string filePath = args.Length > 0 ? args[0] : "main.no";
 
             if (!File.Exists(filePath)) {
-                string fallbackPath = "..\\..\\NoSharp\\main.no";
+                string fallbackPath = Path.Combine(AppContext.BaseDirectory, "main.nos");
                 if (File.Exists(fallbackPath)) {
                     filePath = fallbackPath;
                 } else {
