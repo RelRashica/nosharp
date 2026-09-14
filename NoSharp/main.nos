@@ -1,0 +1,27 @@
+// No# Basics
+print("Message") // prints
+
+auto var = 5 // basically an int 
+int var2 = "haha" // not good good
+string var3 = true // no
+
+// ifs
+if 2 > 4 {
+    print("hi")
+} elseif 1 == 1 {
+    print("elseif hi")
+} else {
+    print("else hi")
+}
+
+// for start, end, step
+for int i = 0, 10, 1 {
+    print("i: " .. i) // concat is possible with "..", just like in Lua
+}
+
+// modulos don't exist I think, haha
+// I think that's it for No# v0.1
+// No more for you bitches
+// Language also slow as fuck currently
+// please do free labor and make the Interpreter good, thanks!
+// now start coding

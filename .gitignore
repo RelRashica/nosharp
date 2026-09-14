@@ -1,0 +1,12 @@
+# Rust build artifacts
+/target/
+
+# .NET / C# build artifacts
+bin/
+obj/
+
+# Editor / IDE noise
+.vscode/
+.idea/
+*.user
+*.suo
