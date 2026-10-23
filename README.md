@@ -1,4 +1,4 @@
-<img align="right" width="220" src="https://github.com/RelRashica/nosharp/raw/main/No%23%20logo.png" alt="No# logo" style="background: transparent; border: none; box-shadow: none;" />
+<img align="right" width="220" src="https://github.com/RelRashica/nosharp/raw/main/NoSharp_logo.png" alt="No# logo" style="background: transparent; border: none; box-shadow: none;" />
 
 <h1 style="border-bottom: none; margin: 0;">No#</h1>
 No# (`/ˈnoʊ.ʃɑːrp/`) is a small, interpreted and early-phase C# inspired programming language.
